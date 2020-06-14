@@ -1,13 +1,13 @@
 # PrivacyPolicy
 
-[利用者情報の取得]
-本アプリが利用者の個人情報を取得することはありません
+[Acquisition of user information]
+This application does not collect the user's personal information
 
-[利用者情報の利用]
-本アプリが利用者の個人情報を利用することはありません
+[Use of user information]
+This application does not use the personal information of the user
 
-[利用者情報の第三者提供]
-本アプリが利用者の個人情報を第三者へ提供することはありません。
+[Provision of user information to a third party]
+This application does not provide the user's personal information to a third party.
 
-[お問い合わせ先]
+[Contact information]
 ribenappcontact@gmail.com
